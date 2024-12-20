@@ -9,7 +9,7 @@ import (
 
 	env "github.com/caarlos0/env/v11"
 
-	"github.com/Toysin/terraform-practice/process/database"
+	"github.com/Toysin/terraform-practice/database"
 	"github.com/Toysin/terraform-practice/redis"
 )
 
